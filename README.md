@@ -7,9 +7,6 @@
 As an entry-level QA Engineer, I am passionate about learning and growing in the field of technology. am focused on mastering both manual and automated testing techniques while ensuring the highest quality standards in software development. My curiosity drives me to stay updated with industry trends and best practices, and I thrive in environments where I can continuously challenge myself and improve. I am committed to contributing to team success by identifying defects, improving product quality.
 
 
-
-
---
 ### 🤝 Socials:
 
   <div id="badges">
