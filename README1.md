@@ -6,8 +6,8 @@
 
 As an entry-level QA Engineer, I am passionate about learning and growing in the field of technology. am focused on mastering both manual and automated testing techniques while ensuring the highest quality standards in software development. My curiosity drives me to stay updated with industry trends and best practices, and I thrive in environments where I can continuously challenge myself and improve. I am committed to contributing to team success by identifying defects, improving product quality.
 
-- 📫 How to contact me : [![LinkedIn Badge](https://img.shields.io/badge/-@edgarugnovionok-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/edgar-ugnovionok-733629240/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
--
+- 📫 How to contact me : [![LinkedIn Badge](https://img.shields.io/badge/-@edgarugnovionok-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/edgar-ugnovionok-733629240/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](edgarugnovionok@gmail.com)
+
 
 ---
 ### 🤝 socials:
